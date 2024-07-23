@@ -15,7 +15,7 @@ body
 	height: 100%;
 }
 
-
+/*============	HEADER	===================*/
 
 .logoletter:hover
 {
@@ -65,7 +65,7 @@ body
 
 #search
 {
-	
+	/*width: 420px;*/
 	width: 220px;
 	background-image: url('../images/login/search.png');
 	background-position: 5px 4px;
